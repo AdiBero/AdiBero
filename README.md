@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://github.com/AdiBero">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Aditya+Singh+%F0%9F%91%8B;Computer+Science+%40+MNNIT+Allahabad;DSA+Enthusiast+%7C+150%2B+LeetCode+in+2+Months;Passionate+about+Low-Level+Design+(LLD);Fast.ai+Practitioner+%26+Deep+Learning+Builder;Crafting+Interactive+3D+Web+%26+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Aditya+Singh+%F0%9F%91%8B;Computer+Science+%40+MNNIT+Allahabad;DSA+Enthusiast+%7C+150%2B+LeetCode+in+2+Months;Passionate+about+Low-Level+Design+(LLD);Fast.ai+Practitioner+%26+Deep+Learning+Builder;Crafting+Interactive+3D+Web+%26+Open+Source" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -29,12 +29,12 @@
 
 ### ⚡ About Me
 
-I am a Computer Science undergraduate at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**, driven by a passion for solving hard algorithmic problems, designing scalable systems, and building intuitive products.
+I am a Computer Science undergraduate at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**, driven by a passion for solving algorithmic problems, designing scalable software architectures, and building user-centric products.
 
 - 🧩 **Data Structures & Algorithms**: Solved **150+ problems on LeetCode in just 2 months**, developing deep mastery over Graph Theory (Dijkstra, BFS/DFS, MST, Disjoint Set Union), Dynamic Programming, and Trees in C++.
 - 📐 **Low-Level Design (LLD)**: Keenly interested in clean architecture, Object-Oriented Design (OOD), SOLID principles, and design patterns to create decoupled, modular, and maintainable software systems.
 - 🧠 **Deep Learning & Fast.ai**: Practical deep learning builder following the **fast.ai** curriculum and PyTorch — engineering computer vision models, ordinal regression pipelines, and Explainable AI (Grad-CAM) for real-world healthcare applications.
-- 🌐 **Creative Web & Systems**: Experienced in modern web technologies (React 19, Three.js 3D web experiences, GSAP, Tailwind CSS), containerized deployments (Docker, Nginx), and native macOS software in Swift.
+- 🌐 **Creative Web & Systems**: Experienced in modern web technologies (React 19, Three.js 3D web experiences, GSAP, Tailwind CSS), containerized deployments (Docker, Nginx), and native system performance optimizations.
 
 ---
 
@@ -91,45 +91,40 @@ I am a Computer Science undergraduate at **Motilal Nehru National Institute of T
       <p><b>Tech Stack</b>: <code>Python</code> <code>Flask</code> <code>Ollama</code> <code>Phi-3</code> <code>SQLite</code> <code>Firebase Auth</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💻 DynamicNotch</h3>
+      <h3 align="center">🏆 Algorithmic Arsenal & LLD</h3>
       <p align="center">
-        <a href="https://github.com/AdiBero/DynamicNotch">
-          <img src="https://img.shields.io/badge/GitHub-DynamicNotch-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        <a href="https://github.com/AdiBero/leet_sol">
+          <img src="https://img.shields.io/badge/GitHub-leet__sol-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
         </a>
-        <img src="https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
+        <img src="https://img.shields.io/badge/LeetCode-150%2B%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
       </p>
-      <p>A native macOS utility that transforms the MacBook display notch into a living, interactive system surface.</p>
+      <p>Curated repository of algorithmic solutions and modular system patterns in C++.</p>
       <ul>
-        <li><b>System Integration</b>: Live surface for media controls, AirDrop transfers, download tracking, timers, and connectivity transitions.</li>
-        <li><b>Native macOS Engineering</b>: Built in Swift utilizing AppKit, system event observation, and custom hardware HUD overlays.</li>
-        <li><b>Fluid UI</b>: Minimal latency animations integrated directly into the physical screen geometry.</li>
+        <li><b>150+ Milestone</b>: Conquered over 150 LeetCode problems across 2 months, focusing on time & space complexity optimization.</li>
+        <li><b>Advanced Topics</b>: Deep focus on Graph Theory (Dijkstra, Kruskal's MST, DSU, Topological Sort), 2D DP, and Binary Search Trees.</li>
+        <li><b>Low-Level Design (LLD)</b>: Emphasizing clean class hierarchies, separation of concerns, and reusable object-oriented paradigms.</li>
       </ul>
-      <p><b>Tech Stack</b>: <code>Swift</code> <code>macOS AppKit</code> <code>System APIs</code></p>
+      <p><b>Tech Stack</b>: <code>C++</code> <code>STL</code> <code>Graph Algorithms</code> <code>Dynamic Programming</code> <code>LLD</code></p>
     </td>
   </tr>
 </table>
 
-<div align="center">
+---
 
-### 🏆 Algorithmic Mastery & Problem Solving (`leet_sol`)
+### 🌐 Open Source Contributions
 
-<p>
-  <a href="https://github.com/AdiBero/leet_sol">
-    <img src="https://img.shields.io/badge/GitHub-leet__sol%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="leet_sol"/>
-  </a>
-  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved%20in%202%20Months-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Milestone"/>
-</p>
-
-<p align="left">
-  Consistent, disciplined problem solver who tackled <b>150+ LeetCode problems in a 2-month sprint</b>. My open-source repository <a href="https://github.com/AdiBero/leet_sol"><code>leet_sol</code></a> contains clean, modular C++ implementations focused on high-complexity topics:
-</p>
-
-- 🌐 **Advanced Graph Algorithms**: Dijkstra's Algorithm, Shortest Path in Binary Matrix, Word Ladder II, Critical Connections, Min Cost to Connect All Points (Kruskal's / Prim's), Network Delay Time, Making a Large Island.
-- 🌳 **Trees & BSTs**: Minimum Distance Between BST Nodes, Path Sums, Tree Traversals, Lowest Common Ancestor.
-- ⚡ **Dynamic Programming & Optimization**: Multidimensional DP, memoization, knapsack variants, state machines.
-- 📐 **Low-Level Design (LLD)**: Applying design patterns, clean code principles, and modular architecture across problem domains.
-
-</div>
+<table>
+  <tr>
+    <td width="100%">
+      <h4>💻 <a href="https://github.com/AdiBero/DynamicNotch">DynamicNotch</a> (Native macOS Utility)</h4>
+      <p>A native macOS app that transforms the MacBook notch into a living system surface for media, HUDs, timers, and connectivity events.</p>
+      <ul>
+        <li><b>Contribution</b>: Analyzed and implemented performance optimizations, fine-tuning notch UI animations, responsiveness, and memory footprint in Swift and AppKit.</li>
+      </ul>
+      <p><b>Technologies</b>: <code>Swift</code> <code>AppKit</code> <code>macOS APIs</code> <code>Performance Profiling</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -168,7 +163,7 @@ I am a Computer Science undergraduate at **Motilal Nehru National Institute of T
 
 <div align="center">
 
-  <p>I'm always open to collaborating on challenging full-stack systems, machine learning projects, or discussing algorithmic problems and low-level design architectures.</p>
+  <p>I'm always open to collaborating on challenging full-stack systems, deep learning projects, or discussing algorithmic problems and low-level design architectures.</p>
 
   <a href="mailto:adigamer635m@gmail.com">
     <img src="https://img.shields.io/badge/Email-adigamer635m%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
