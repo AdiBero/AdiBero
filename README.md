@@ -152,8 +152,8 @@ I am a Computer Science undergraduate at **Motilal Nehru National Institute of T
     <img src="https://streak-stats.demolab.com/?user=AdiBero&theme=tokyonight&hide_border=true&card_width=480" alt="GitHub Streak" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdiBero&show_icons=true&theme=tokyonight&hide_border=true&card_width=480" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdiBero&layout=compact&theme=tokyonight&hide_border=true&card_width=480" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdiBero&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdiBero&theme=tokyonight" alt="Top Languages by Commit" />
   </p>
 </div>
 
