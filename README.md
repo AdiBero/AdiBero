@@ -45,8 +45,8 @@ I am a Computer Science undergraduate at **Motilal Nehru National Institute of T
     <td width="50%" valign="top">
       <h3 align="center">🔬 Diabetic Retinopathy Diagnostic Platform</h3>
       <p align="center">
-        <a href="https://dr-prediction-model.vercel.app">
-          <img src="https://img.shields.io/badge/Live%20Demo-dr--prediction--model.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/>
+        <a href="https://dr-prediction-model-adi-bero.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-dr--prediction--model--adi--bero.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
         <a href="https://github.com/AdiBero/DR_Prediction_Model">
           <img src="https://img.shields.io/badge/GitHub-DR__Prediction__Model-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
